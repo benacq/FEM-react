@@ -30,6 +30,8 @@ const App = () => {
     <div>
       <h1>Adopt Me</h1>
       <Pet name="Luna" animal="Dog" breed="Havenesse"/>
+      <Pet name="Two" animal="Dog" breed="Havenesse"/>
+      <Pet name="Three" animal="Dog" breed="Havenesse"/>
     </div>
   );
 };
